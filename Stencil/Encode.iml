@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="Flex" version="4">
+  <component name="FlexBuildConfigurationManager" active="Encode">
+    <configurations>
+      <configuration name="Encode" main-class="Main" output-file="Stencil.swf" output-folder="$MODULE_DIR$/out/production/Stencil">
+        <dependencies target-player="11.1">
+          <entries>
+            <entry library-id="86473978-f9cd-47bb-a0c6-8989a41de28f">
+              <dependency linkage="Merged" />
+            </entry>
+          </entries>
+          <sdk name="flexsdk" />
+        </dependencies>
+        <compiler-options />
+        <packaging-air-desktop />
+        <packaging-android />
+        <packaging-ios />
+      </configuration>
+    </configurations>
+    <compiler-options />
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="jdk" jdkName="flexsdk" jdkType="Flex SDK Type (new)" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library type="flex">
+        <properties id="86473978-f9cd-47bb-a0c6-8989a41de28f" />
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/assets/Stencil.swc!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>
+

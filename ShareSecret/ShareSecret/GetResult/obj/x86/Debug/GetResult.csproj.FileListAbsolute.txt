@@ -1,0 +1,5 @@
+D:\Job\Dropbox\ИТМО\4 course\Информационная безопасность\ShareSecret\ShareSecret\GetResult\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Job\Dropbox\ИТМО\4 course\Информационная безопасность\ShareSecret\ShareSecret\GetResult\bin\Debug\GetResult.exe
+D:\Job\Dropbox\ИТМО\4 course\Информационная безопасность\ShareSecret\ShareSecret\GetResult\bin\Debug\GetResult.pdb
+D:\Job\Dropbox\ИТМО\4 course\Информационная безопасность\ShareSecret\ShareSecret\GetResult\obj\x86\Debug\GetResult.exe
+D:\Job\Dropbox\ИТМО\4 course\Информационная безопасность\ShareSecret\ShareSecret\GetResult\obj\x86\Debug\GetResult.pdb

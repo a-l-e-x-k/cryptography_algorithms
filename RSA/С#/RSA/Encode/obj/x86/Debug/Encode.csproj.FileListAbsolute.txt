@@ -1,0 +1,5 @@
+D:\Job\Dropbox\ИТМО\4 course\Информационная безопасность\RSA\С#\RSA\Encode\bin\Debug\Encode.exe
+D:\Job\Dropbox\ИТМО\4 course\Информационная безопасность\RSA\С#\RSA\Encode\bin\Debug\Encode.pdb
+D:\Job\Dropbox\ИТМО\4 course\Информационная безопасность\RSA\С#\RSA\Encode\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Job\Dropbox\ИТМО\4 course\Информационная безопасность\RSA\С#\RSA\Encode\obj\x86\Debug\Encode.exe
+D:\Job\Dropbox\ИТМО\4 course\Информационная безопасность\RSA\С#\RSA\Encode\obj\x86\Debug\Encode.pdb
